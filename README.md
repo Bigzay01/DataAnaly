@@ -1,8 +1,10 @@
-# Sales Analysis
+# **Sales Analysis**
+---
 
-## E-Commerce (including Orders date and Shipment modes)
+## *E-Commerce (including Orders date and Shipment modes)*
 
 ### Project Overview
+---
 
 Superstore Sale Analysis using Power Query to query and to clean.
 The Analysis provide more in-depth insight about Stores, Orders, Profitable City & Categories. This report includes detailed information about the store’s performance based on Sales, Profit, Discount, and Region. With the help of filters like Store Location, the use drill-through feature was also used i.e the donut chart.
@@ -59,3 +61,8 @@ based on the Analysis, I Recommend the following courser of actions
 ### Reference
 1. Business Analysis book
 2. Dataset from [Kaggle](https://kaggle.com)
+
+
+😄   
+💻
+👍
