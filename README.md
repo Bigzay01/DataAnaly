@@ -1,4 +1,4 @@
-# Sales Analysis For a Superstore
+# Sales Analysis
 
 ## E-Commerce (including Orders date and Shipment modes)
 
