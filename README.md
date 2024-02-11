@@ -7,6 +7,8 @@
 Superstore Sale Analysis using Power Query to query and to clean.
 The Analysis provide more in-depth insight about Stores, Orders, Profitable City & Categories. This report includes detailed information about the store’s performance based on Sales, Profit, Discount, and Region. With the help of filters like Store Location, the use drill-through feature was also used i.e the donut chart.
 
+![Screenshot 2024-02-11 151824](https://github.com/Bigzay01/Superstoresalesanalysis/assets/153306699/82f53e43-1a25-4af5-b0c9-23179384f41d)
+
 ### Data Source
 
 Sale Data from the internet: The Primary dataset used for this Analysis is the "Super-Store-Data.xlsx" file contain required information about Sales made be the Store.
